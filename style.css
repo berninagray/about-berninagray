@@ -1,12 +1,6 @@
-.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-body {
-	background-color: cyan;
-}
-
-div {
-	margin-top: .9em;
-}
+.navbar{ background:#00000;}
+.nav-link , .navbar-brand{ color: #F1E3E5; cursor: pointer;}
+.nav-link{ margin-right: 1em !important;}
+.nav-link:hover{ background: #A77676; color: #f97300; }
+.navbar-collapse{ justify-content: flex-end;}
+.navbar-toggler{  background:#fff !important;}
